@@ -1,0 +1,14 @@
+{
+  "name": "Flex Script",
+  "description": "A Browser Extension to make FlexStudent better",
+  "manifest_version": 3,
+  "version": "2.2.1",
+  "permissions": ["scripting", "tabs"],
+  "host_permissions": ["*://flexstudent.nu.edu.pk/*"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "128": "favicon.png"
+  }
+}
