@@ -3,7 +3,7 @@
 This is a Browser extension that allows you to view your Grand Total Marks (client side calculation), Select feedback with a single clock in flex student portal easily and calculates SGPA (current semester) and updates CGPA. Contributions and recommendations are welcome.
 
 <p align="center">
-  <img src="./assets/Screen.png" />
+  <img src="./assets/Flex.png" />
 </p>
   
 ## Installation Procedure
